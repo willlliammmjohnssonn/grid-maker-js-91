@@ -1,2 +1,4 @@
-# grid-maker-js-91
+# Grid Maker Js 91
+
 Helper tool generating matrix coordinates in JavaScript.
+
