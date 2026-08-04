@@ -1,0 +1,1 @@
+exports.make = (cols, rows) => Array(rows).fill(null).map(() => Array(cols).fill(0));
