@@ -6,3 +6,5 @@ Helper tool generating matrix coordinates in JavaScript.
 Clone this project and look at the source files:
 - `index.js`
 - `grid.js`
+
+*Initialized by willlliammmjohnssonn workspace automation.*
